@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hibounashi
 - 👀 I’m interested in <b>web</b> dev
-- 🌱 I’m currently learning javaScript and try to create front end pages
+- 🌱 I’m currently learning more about Django 
 - 📫 How to reach me just by my name <b>hiba nehili</b>
 
 <!---
