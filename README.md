@@ -11,10 +11,10 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=hibounashi&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
 
-# 🧱 somthing board : 
+# 🔥 Streak board : 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=hibounashi&theme=dark&hide_border=true)<br/>
 
-# 🎫Language board :
+# 🎫 Language board :
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=hibounashi&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ### ✍️ Random Dev Quote
