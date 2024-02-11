@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently a student looking for creative ideas to implement it
+🔭 hi I am Hiba a student who looking for creative ideas to implement it
 
 
 ## 🌐 Socials:
