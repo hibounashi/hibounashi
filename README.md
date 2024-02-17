@@ -14,7 +14,7 @@
 
 # 📊 GitHub Stats:
 <a align="center" href='https://github-readme-stats.vercel.app/api?username=hibounashi&theme=dark&hide_border=true&include_all_commits=true&count_private=true'></a>
-<div align="center">![](https://github-readme-stats.vercel.app/api?username=hibounashi&theme=dark&hide_border=true&include_all_commits=true&count_private=true)</div><br/>
+![](https://github-readme-stats.vercel.app/api?username=hibounashi&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
 
 # 🔥 Streak board : 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=hibounashi&theme=dark&hide_border=true)<br/>
