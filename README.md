@@ -16,16 +16,16 @@
 <a align="center" href='https://github-readme-stats.vercel.app/api?username=hibounashi&theme=dark&hide_border=true&include_all_commits=true&count_private=true'></a>
 ![](https://github-readme-stats.vercel.app/api?username=hibounashi&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
 
-# 🔥 Streak board : 
+# 🔥 Streak board: 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=hibounashi&theme=dark&hide_border=true)<br/>
 
-# 🎫 Language board :
+# 🎫 Language board:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=hibounashi&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-### ✍️ Random Dev Quote :
+### ✍️ Random Dev Quote:
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-## 👀 visitors :
+## 👀 visitors:
 [![](https://visitcount.itsvg.in/api?id=hibounashi&icon=7&color=12)](https://visitcount.itsvg.in)
 
 
