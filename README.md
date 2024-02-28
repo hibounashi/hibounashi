@@ -1,4 +1,4 @@
-<div style="text-align: center;">
+<div align="center">
 
 # 💫 About Me:
 🔭 hi I am Hiba a student who looking for creative ideas to implement it
