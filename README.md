@@ -3,7 +3,7 @@
 
 
 ## 🌐 Connect with me:
-<p align="left">
+<p align="center">
 <a href="https://linkedin.com/in/hibanehili" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hibanehili" height="30" width="50" /></a>
 <a href="https://www.hackerrank.com/h_nehili" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="h_nehili" height="30" width="40" /></a>
 <a href="https://discord.gg/nehilihiba" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="nehilihiba" height="30" width="40" /></a>
