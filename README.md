@@ -1,8 +1,8 @@
 <div align="center">
-<div align="left">
+
 # 💫 About Me:
-🔭 hi I am Hiba a student who looking for creative ideas to implement it
-</div>
+<div align="left">🔭 hi I am Hiba a student who looking for creative ideas to implement it</div>
+
 ## 🌐 Connect with me:
 <a href="https://linkedin.com/in/hibanehili" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hibanehili" height="30" width="50" /></a>
 <a href="https://www.hackerrank.com/h_nehili" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="h_nehili" height="30" width="40" /></a>
