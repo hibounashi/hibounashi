@@ -1,5 +1,6 @@
 <div align="center">
-## 💫 About Me:
+  
+# 💫 About Me:
 <div align="left">🔭 Hi, I'm Hiba — a final-year AI & Data Science engineering student at ESTIN, Algeria. I build ML pipelines, fine-tune language models, and develop platforms with Python. Currently working on an ASR post-correction system for Algerian Darija dialect as my final-year project. I compete in ML challenges on Kaggle, have hands-on experience with Docker, and I'm looking for a long-term opportunity in a tech startup where I can contribute to real-world AI and platform development.</div>
 
 ## 🌐 Connect with me:
@@ -12,6 +13,3 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=hibounashi&theme=dark&hide_border=true)
 # 🎫 Language board:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=hibounashi&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-## 👀 visitors:
-[![](https://visitcount.itsvg.in/api?id=hibounashi&icon=7&color=12)](https://visitcount.itsvg.in)
-</div>
